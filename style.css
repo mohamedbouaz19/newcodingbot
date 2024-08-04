@@ -1,0 +1,116 @@
+@keyframes example {
+    from{background-color: rgb(228, 191, 142);}
+    to{background-color: rgb(37, 35, 35);}
+    }
+    
+*{
+padding: 0;
+margin: 0;
+}
+.main{
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+    background-color:  rgb(228, 191, 142);
+}
+.part1{
+    width: 300px;
+    height: 100vh;
+    background-color: rgb(37, 35, 35);
+    float: left;
+    animation-name: example;
+    animation-duration: 2s;
+    position: relative;
+}
+.part2{
+height: 100vh;
+float: right;
+width: 1210px;
+background-color: rgb(228, 191, 142);
+
+}
+
+
+.image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 50px;
+    margin-left: 80px;
+
+
+}
+.name{
+    margin-left: 20px;
+
+    color: aliceblue;
+
+
+}
+.ul{
+    align-items: center;
+
+}
+.li{
+
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+
+
+}
+.s1{
+    margin-left: 40px;
+    color: antiquewhite;
+}
+.cont{
+    color: azure;
+    margin-left: 20px;
+}
+.info{
+    color: antiquewhite;
+    margin-left: 40px;
+}
+.a1{
+    background-color: beige;
+    color: rgb(0, 0, 0);
+    margin-left: 100px;
+}
+
+.a2{
+    margin-left: 100px;
+    color: #000000;
+    background-color: beige;
+}
+.a3{
+    margin-left: 100px;
+    color: #000000;
+    background-color: beige;
+}
+.a4{
+    margin-left: 100px;
+    color: #000000;
+    background-color: beige;
+}
+.t2{
+    color: rgb(249, 239, 226);
+    margin-left: 40px;
+
+}
+.t1{
+    color: rgb(249, 239, 226);
+    margin-left: 40px;
+
+}
+.t3{
+    color: rgb(249, 239, 226);
+    margin-left: 40px;
+}
+.t4{
+    color: rgb(249, 239, 226);
+    margin-left: 40px;
+
+}
+
+
+
